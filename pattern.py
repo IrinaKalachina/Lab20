@@ -1,3 +1,4 @@
+
 class Operation:  # Обстрактный класс
     def perform_operation(self, a, b):
         pass
